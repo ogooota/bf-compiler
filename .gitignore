@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -53,3 +54,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# makefile and bf.c
+Makefile
+bf.c
+
+# vscode
+.vscode/
